@@ -1,0 +1,22 @@
+INSERT INTO products (name, description, price, category, stock, created_date, last_updated_date)
+VALUES
+    ('Wireless Mouse', 'Ergonomic wireless mouse with 1600 DPI sensitivity.', 15.99, 'Electronics', 150, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Bluetooth Headphones', 'Over-ear noise-cancelling headphones with long battery life.', 49.99, 'Electronics', 80, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Stainless Steel Bottle', 'Insulated bottle that keeps drinks cold for 24h.', 19.95, 'Home & Kitchen', 120, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Yoga Mat', 'Non-slip yoga mat with carrying strap, 6mm thick.', 25.00, 'Fitness', 60, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Notebook A5', 'Lined A5 notebook with soft cover, 100 pages.', 3.49, 'Office Supplies', 300, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('LED Desk Lamp', 'Adjustable lamp with touch control and USB charging port.', 29.99, 'Home & Kitchen', 45, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('USB-C Charger', 'Fast 30W USB-C wall charger for smartphones and tablets.', 18.50, 'Electronics', 90, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Running Shoes', 'Lightweight breathable shoes for daily jogging.', 65.00, 'Clothing & Footwear', 70, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Espresso Coffee Beans', 'Premium Arabica beans, medium roast, 1kg pack.', 14.75, 'Groceries', 150, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Portable Power Bank', '10000mAh power bank with dual USB output.', 22.99, 'Electronics', 110, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Camping Tent', '2-person waterproof camping tent, easy setup.', 89.00, 'Outdoors', 30, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Watercolor Paint Set', '24 vibrant colors, includes brushes and palette.', 12.95, 'Arts & Crafts', 200, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Smart Watch', 'Fitness tracker with heart rate monitor and GPS.', 79.99, 'Electronics', 50, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Scented Candle', 'Soy wax candle with lavender scent, 40h burn time.', 9.99, 'Home & Kitchen', 250, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Gaming Keyboard', 'Mechanical RGB keyboard with programmable keys.', 59.90, 'Electronics', 65, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Wireless Charger', 'Qi-certified pad for fast wireless charging.', 17.99, 'Electronics', 140, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Leather Wallet', 'Slim leather wallet with RFID blocking.', 27.50, 'Accessories', 75, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Pet Bed', 'Comfortable plush bed for small to medium pets.', 34.99, 'Pets', 40, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Screwdriver Set', 'Precision screwdriver kit with 24 bits.', 13.60, 'Tools & Hardware', 180, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Bath Towel Set', 'Set of 3 ultra-soft cotton towels.', 21.45, 'Home & Kitchen', 95, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
