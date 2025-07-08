@@ -9,7 +9,7 @@ This is a Spring Boot 3 application providing a REST API for managing products.
 ## Setup & Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/polyatskovun/be-test-quantum.git>
    cd be-test-quantum
    ```
 2. Build and start the application:
