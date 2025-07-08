@@ -1,15 +1,15 @@
 # Product API
 
-This is a Spring Boot 3 application providing a REST API for managing products. It demonstrates a multi-layered architecture, including JPA/Hibernate, service layer, DTOs with validation, MapStruct mapping, Flyway migrations, caching, and Swagger documentation.
+This is a Spring Boot 3 application providing a REST API for managing products. It demonstrates a multi-layered architecture, including JPA/Hibernate, service layer, DTOs with validation, MapStruct mapping, Flyway migrations, caching, and Swagger documentation.
 
 ## Prerequisites
-- Java 17 or higher
-- Maven 3.8+
+- Java 17 or higher
+- Maven 3.8+
 
 ## Setup & Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/polyatskovun/be-test-quantum.git
    cd be-test-quantum
    ```
 2. Build and start the application:
